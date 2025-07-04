@@ -153,5 +153,4 @@ Or upload to YouTube and link here.
 
 This project is provided for technical assessment and demonstration purposes only.
 # subscription-demo
-# demo-subscription
 
