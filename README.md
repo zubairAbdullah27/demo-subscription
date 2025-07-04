@@ -1,11 +1,19 @@
 # 📱 React Native Subscription App (Technical Assignment)
 
+
 This project is a full-stack subscription-based mobile application built using:
 
 - ✅ React Native CLI with TypeScript (no Expo)
 - ✅ Node.js + Express backend with MongoDB
 - ✅ Simulated Apple/Google receipt validation
 - ✅ Subscription plans: Weekly, Monthly, Yearly
+
+---
+
+## 🎥 Demo
+
+
+[▶️ Watch Demo Video](demo.mov)
 
 ---
 
@@ -146,3 +154,4 @@ Or upload to YouTube and link here.
 This project is provided for technical assessment and demonstration purposes only.
 # subscription-demo
 # demo-subscription
+
